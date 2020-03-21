@@ -1,6 +1,7 @@
 ﻿using System;
 using TechTalk.SpecFlow;
 
+///test
 namespace CucumberAMBatch.StepDefinitions
 {
     [Binding]
