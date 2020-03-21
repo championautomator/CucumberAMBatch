@@ -99,7 +99,10 @@ namespace CucumberAMBatch.StepDefinitions
                 //driver.FindElement(By.Id("password")).Clear();
             }
             
-        }*/
+        }*//// <summary>
+        /// ////////////////////////
+        /// </summary>
+        /// <param name="table"></param>
 
         [When(@"Enter credentials")]
         public void WhenEnterCredentials(Table table)
