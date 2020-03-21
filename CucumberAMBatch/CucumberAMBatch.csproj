@@ -132,6 +132,7 @@
     <Compile Include="StepDefinitions\MyAccountLoginSteps.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StepDefinitions\TagsInSpecflowSteps.cs" />
+    <Compile Include="StepDefinitions\testgit.cs" />
     <Compile Include="Utils\TableExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
